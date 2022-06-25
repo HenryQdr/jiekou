@@ -1,20 +1,20 @@
-// 分类 ++
+// 网站改版修正
 {
+  "author": "20220625",
   "name": "奈落影院",
   "url": "https://newfii.com",
   "tihuan": "cnzz.com",
   "User": "空",
   "shouye": "1",
   
-  //"fenlei": "电影片库$/index.php/vod/show/id/1/page/#剧集片库$/index.php/vod/show/id/2/page/#动漫片库$/index.php/vod/show/id/3/page/#综艺片库$/index.php/vod/show/id/4/page/#B站片库$/index.php/vod/show/id/34/page/#记录片库$/index.php/vod/show/id/27/page/#4K专区片库$/index.php/vod/show/id/33/page/",
-  "fenlei": "电影$/index.php/vod/show/id/1/page/#国产剧$/index.php/vod/show/id/13/page/#日韩剧$/index.php/vod/show/id/15/page/#欧美剧$/index.php/vod/show/id/16/page/#港台剧$/index.php/vod/show/id/14/page/#海外剧$/index.php/vod/show/id/21/page/#童漫$/index.php/vod/show/id/24/page/#动画片$/index.php/vod/show/id/20/page/#国漫$/index.php/vod/show/id/22/page/#日漫$/index.php/vod/show/id/25/page/#欧漫$/index.php/vod/show/id/23/page/#综艺$/index.php/vod/show/id/4/page/#番剧(B站)$/index.php/vod/show/id/35/page/#国创(B站)$/index.php/vod/show/id/36/page/#记录片$/index.php/vod/show/id/27/page/#科幻片$/index.php/vod/show/id/6/page/#动作片$/index.php/vod/show/id/7/page/#喜剧片$/index.php/vod/show/id/8/page/#爱情片$/index.php/vod/show/id/9/page/#恐怖片$/index.php/vod/show/id/10/page/#剧情片$/index.php/vod/show/id/11/page/#战争片$/index.php/vod/show/id/12/page/",
-  "houzhui": ".html",
+  "fenlei": "电影$/vodshow/1--------#国产剧$/vodshow/13--------#日韩剧$/vodshow/15--------#欧美剧$/vodshow/16--------#港台剧$/vodshow/14--------#海外剧$/vodshow/21--------#记录片$/vodshow/27--------#童漫$/vodshow/24--------#动画片$/vodshow/20--------#国漫$/vodshow/22--------#日漫$/vodshow/25--------#欧漫$/vodshow/23--------#番剧(B站)$/vodshow/35--------#国创(B站)$/vodshow/36--------#综艺$/vodshow/4--------#科幻片$/vodshow/6--------#动作片$/vodshow/7--------#喜剧片$/vodshow/8--------#爱情片$/vodshow/9--------#恐怖片$/vodshow/10--------#剧情片$/vodshow/11--------#战争片$/vodshow/12--------",
+  "houzhui": "---.html",
   
   "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
   "jiequshuzuqian": "class=\"module-item-pic\"",
-  "jiequshuzuhou": "</div>",
+  "jiequshuzuhou": "alt=\"",
   "tupianqian": "data-src=\"",
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
@@ -24,7 +24,7 @@
   
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
-  "sousuohouzhui": "/index.php/vod/detail/id/",
+  "sousuohouzhui": "/voddetail/",
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
   "jspic": "pic",
@@ -53,16 +53,16 @@
   "daoyanhou": "</div>",
   "zhuyanqian": "主演：</span>",
   "zhuyanhou": "</div>",
-  "juqingqian": "剧情：</span>",
-  "juqinghou": "</div>",
+  "juqingqian": "display: none;\">",
+  "juqinghou": "<span",
   
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
   "bfyjiequhou": "空",
   "bfyjiequshuzuqian": "<a",
   "bfyjiequshuzuhou": "/a>",
-  "bfbiaotiqian": "<span>",
-  "bfbiaotihou": "<",
+  "bfbiaotiqian": "span>",
+  "bfbiaotihou": "</span",
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""
 }

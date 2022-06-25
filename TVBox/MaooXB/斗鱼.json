@@ -47,14 +47,14 @@
   "bfjiequshuzuqian": "left\"><div class=\"Title", //播放截取的列表数组的前关键词
   "bfjiequshuzuhou": "</a>", //播放截取的列表数组的后关键词
 
-  "zhuangtaiqian": "更新：</span>", //状态前关键词
-  "zhuangtaihou": "</p>", //状态后关键词
-  "daoyanqian": "导演：</span>", //导演前关键词
-  "daoyanhou": "</p>", //导演态后关键词
-  "zhuyanqian": "主演：</span>", //主演前关键词
-  "zhuyanhou": "</p>", //主演后关键词
-  "juqingqian": "简介：</span>", //剧情前关键词
-  "juqinghou": "</div>", //剧情后关键词
+  "zhuangtaiqian": "Header-logo\" title=\"", //状态前关键词
+  "zhuangtaihou": "\"", //状态后关键词
+  "daoyanqian": "Title-anchorNameH2\">", //导演前关键词
+  "daoyanhou": "</h2>", //导演态后关键词
+  "zhuyanqian": "canonical\" href=\"", //主演前关键词
+  "zhuyanhou": "\"", //主演后关键词
+  "juqingqian": "is-announceTxt\">", //剧情前关键词
+  "juqinghou": "</p>", //剧情后关键词
 
   "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
   "bfyjiequqian": "空", //不需要二次截取就填空
